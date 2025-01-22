@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"4.0.1",
+ "version":"40001",
  "title":"Update Disponible",
  "description":"RewhasApp Oficial V9.65
 
